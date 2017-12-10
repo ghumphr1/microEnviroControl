@@ -25,5 +25,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <inttypes.h>
+#include <LiquidCrystal.h> // library for character LCD
 
 #endif //microEnviroControl_H
